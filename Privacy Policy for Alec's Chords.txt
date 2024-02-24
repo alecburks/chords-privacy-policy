@@ -1,6 +1,8 @@
+Policy URL: https://github.com/alecburks/chords-privacy-policy
+
 Privacy Policy for Alec's Chords - Educational Music Theory App
 
-Last Updated: [Date]
+Last Updated: 24/02/2024
 
 Thank you for using Alec's Chords, an educational music theory app. This Privacy Policy outlines how we handle user information in our app.
 
