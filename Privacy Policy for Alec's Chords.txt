@@ -1,0 +1,30 @@
+Privacy Policy for Alec's Chords - Educational Music Theory App
+
+Last Updated: [Date]
+
+Thank you for using Alec's Chords, an educational music theory app. This Privacy Policy outlines how we handle user information in our app.
+
+Information We Do Not Collect
+Alec's Chords does not collect any personally identifiable information (PII) such as names, email addresses, or contact details. The app does not have a backend, and as a result, it does not store or transmit any user data to external servers.
+
+Information Usage
+As the app does not have a backend and does not collect any user data, there is no usage of personal information for analytics or any other purposes.
+
+Data Security
+While the app does not collect user data, we still prioritize the security of your device's information and take reasonable measures to protect it from unauthorized access, disclosure, alteration, or destruction.
+
+Third-Party Services
+Alec's Chords does not use any third-party services that collect or process user data.
+
+Children's Privacy
+Alec's Chords is intended for users of all ages, including children. Since the app does not collect personal information, it does not knowingly collect information from children under the age of 13.
+
+Changes to This Privacy Policy
+Any changes to this privacy policy will be made to accurately reflect the app's data practices. Users will be notified within the app or through updates to this policy.
+
+Contact Us
+If you have any questions or concerns about our privacy policy or the app's data practices, please contact us at [your email address].
+
+Consent
+By using Alec's Chords, you acknowledge and agree that the app does not collect any user data.
+
